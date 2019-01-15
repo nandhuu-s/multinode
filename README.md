@@ -6,7 +6,7 @@ This is to create multiple virtual machines using vagrant script
 * You can watch the video from this [blog post](https://kaizen.itversity.com/courses/linux-fundamentals-for-software-professionals/lessons/session-11-setup-virtual-environment-using-virtual-box-and-vagrant/)
 
 # Instructions on Server with Linux, KVM, libvirt and Vagrant
-* Clone the repository
+* Clone the repository to desktop
 * Make necessary changes to manifest.yml
 * It can create up to 10 virtual machines
 * Here are the default settings in manifest.yml
